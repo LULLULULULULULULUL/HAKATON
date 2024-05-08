@@ -1,0 +1,16 @@
+/* style.css */
+header{
+    background-color:white;
+}
+header div{
+    display: inline;
+    background-color:#C69D77;
+    color:white;
+    font-family:sans-serif;
+}
+header div button{
+    font-size: 8px;
+    background-color: #C98CCE;
+    border: 3px solid #AB00E8;
+    border-radius: 5px;
+}
